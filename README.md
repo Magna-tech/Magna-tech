@@ -42,9 +42,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Magna-tech&theme=dark)](https://git.io/streak-stats)
 ## 3. Most Used Languages
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Magna-tech&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 4. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=Magna-tech/Magna-tech)
-## 5. Random Joke Generator
+<!---## 4. Contributors Badge -->
+<!---![Your Repository's Stats](https://contrib.rocks/image?repo=Magna-tech/Magna-tech)-->
+## 4. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## 6. Profile View Counter
+## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Magna-tech)
