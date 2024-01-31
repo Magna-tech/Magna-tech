@@ -4,8 +4,8 @@
 ### Summary about me
 
 - 🔭 I’m currently working on my backend skills
-- 🌱 I’m currently learning Devops
-- 👯 I’m looking to collaborate on Opensource
+- 🌱 I’m currently learning System Engineering and Devops
+- 👯 I’m looking to collaborate on Opensource projects
 - 😄 Pronouns: He/Him
 
 
