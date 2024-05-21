@@ -3,8 +3,8 @@
 
 ### Summary about me
 
-- 🔭 I’m currently working on my backend skills
-- 🌱 I’m currently learning System Engineering and Devops
+- 🔭 I’m currently working on my backend and Frontend skills
+- 🌱 I’m currently learning React Js and Typescript
 - 👯 I’m looking to collaborate on Opensource projects
 - 😄 Pronouns: He/Him
 
