@@ -3,7 +3,7 @@
 ### Summary about me
 
 - 🔭 I’m currently working on my backend and Frontend skills
-- 🌱 I’m currently learning React Js and Typescript
+- 🌱 I’m currently learning React Js and Next Js
 - 👯 I’m looking to collaborate on Opensource projects
 - 😄 Pronouns: He/Him
 
