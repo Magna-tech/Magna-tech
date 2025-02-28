@@ -2,9 +2,9 @@
 
 ### Summary about me
 
-- 🔭 I’m currently working on my backend and Frontend skills
-- 🌱 I’m currently learning React Js and Next Js
-- 👯 I’m looking to collaborate on Opensource projects
+- 🔭 I’m currently working on my backend skills
+- 🌱 I’m currently learning Next Js
+- 👯 I’m looking to collaborate on Open Source projects
 - 😄 Pronouns: He/Him
 
 <!-- - 💬 Ask me about C and Java -->
